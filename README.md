@@ -1,6 +1,3 @@
-![api1](https://github.com/Eruanga/RestfulApi/assets/105167328/ee7dc9fd-067d-46c1-acc5-ea037b73d1df)
-![api2](https://github.com/Eruanga/RestfulApi/assets/105167328/7614516e-27bf-45fc-945a-ba1b3348da3f)
-![api3](https://github.com/Eruanga/RestfulApi/assets/105167328/00b4d8ab-b2d5-4630-bec6-4be5a46d67e5)
 
 # REST Countries API with colour theme switcher.
 This site retrieves country data from the API and displays it in either daylight or night toggle.
@@ -17,9 +14,9 @@ I'm a full stack developer and a tech enthusiast taking growth one step at a tim
 
 ## Screenshots
 
-![Full Country list on daylight mode](https://im.ge/i/hN7uRr)
-![Full Country list on night mode](https://im.ge/i/hN7r9m)
-![Country detail on night mode](https://im.ge/i/hN7luf)
+![api1](https://github.com/Eruanga/RestfulApi/assets/105167328/ee7dc9fd-067d-46c1-acc5-ea037b73d1df)
+![api2](https://github.com/Eruanga/RestfulApi/assets/105167328/7614516e-27bf-45fc-945a-ba1b3348da3f)
+![api3](https://github.com/Eruanga/RestfulApi/assets/105167328/00b4d8ab-b2d5-4630-bec6-4be5a46d67e5)
 
 ## Lessons Learned
 
